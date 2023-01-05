@@ -21,5 +21,4 @@ JavaScript
 
 To contribute to this project, simply fork the repository and make your changes. Then, create a pull request for review.
 
-## License
-This project is licensed under the MIT License.
+
