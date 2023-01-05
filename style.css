@@ -1,0 +1,113 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: beige;
+}
+
+.container{
+    background-color: white;
+    width: 500px;
+    border-radius: 7px;
+    min-height: 50vh;
+}
+
+
+
+.title{
+    border-bottom: 1px solid  #d4dbe5;
+    text-align: center;
+    
+}
+
+
+.input-box {
+    margin: 22px;  
+}
+
+.input-box textarea {
+    width: 450;
+    height: 80px;
+    white-space: pre-wrap !important; /* wrap text to the next line when it reaches the end of the textbox */
+    color: rebeccapurple;
+    font-size: .9rem;
+  }
+  
+
+
+input[type = 'text']{
+    width: 100%;
+    height: 60;
+    margin-bottom: 8px;
+}
+
+
+.copy-button{
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.copy-button :hover{
+    opacity: .1;
+}
+
+
+.options{
+    width: 200px;
+    list-style: none;
+    flex-wrap: wrap;
+    display: flex;
+    
+}
+
+.option{
+    margin-bottom: 20;
+}
+
+label[for = 'inspirational']{
+    margin-right: 20px;
+}
+
+label[for = 'movie']{
+    margin-right: 59px;
+}
+
+label{
+    font-size: 1.1rem;
+}
+  
+
+input[type = 'checkbox']{
+    width: 30;
+    height: 15;
+    background-color: #007bff;
+
+}
+
+
+.settings-title{
+    margin: 22px;
+}
+
+.generate-quote{
+    margin: 22;
+    margin-top: 0;
+}
+
+.generate-btn{
+    width: 100%;
+    align-items: center;
+    background-color: red;
+    padding: 5;
+    border-radius: 4px;
+    color: white;
+    font-size: large;
+    cursor: pointer;
+    border: none;
+    font-size: 1.45rem;
+}
+
+
+.generate-btn:hover{
+   opacity: .7;
+}
