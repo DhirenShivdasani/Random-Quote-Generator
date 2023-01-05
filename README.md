@@ -1,19 +1,25 @@
 # Random-Quote-Generator
 
-Link to app: (https://your-app-link.com](https://dhirenshivdasani.github.io/Random-Quote-Generator/)
+Welcome to the Random Quote Generator! This simple app allows you to generate and copy quotes from various categories, including Inspirational, Funny, Movie, and Famous quotes.
 
-This is a simple app that generates random quotes from various categories. The categories currently available are:
+## How to use
+To use the app, simply select the quote category you would like to generate a quote from and click the "Generate Quote" button. The app will generate a random quote from the selected category and display it in the input field. To copy the quote, simply click the "Copy" button. You can also select multiple quote categories to generate quotes from.
 
-Inspirational
+## View the app
+To view the app, click the link below:
 
-Funny
+[Link to your app](https://[your-app-link](https://dhirenshivdasani.github.io/Random-Quote-Generator/).com)
 
-Movie
+## Technologies used
+HTML
 
-Famous
+CSS
 
-To use the app, simply select the category or categories of quotes that you would like to see, and then click the "Generate Quote" button. A new quote will be displayed in the input field. If you would like to copy the quote to your clipboard, you can click the "Copy" button.
+JavaScript
 
-Note: If you have multiple categories selected, the app will randomly choose one of the selected categories to display a quote from.
+## Contributing
 
-I hope you enjoy using this app!
+To contribute to this project, simply fork the repository and make your changes. Then, create a pull request for review.
+
+## License
+This project is licensed under the MIT License.
