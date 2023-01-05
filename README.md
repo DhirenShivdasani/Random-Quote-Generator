@@ -8,7 +8,7 @@ To use the app, simply select the quote category you would like to generate a qu
 ## View the app
 To view the app, click the link below:
 
-[Link to your app](https://[your-app-link](https://dhirenshivdasani.github.io/Random-Quote-Generator/).com)
+[Random Quote Generator](https://[your-app-link](https://dhirenshivdasani.github.io/Random-Quote-Generator/).com)
 
 ## Technologies used
 HTML
